@@ -1,7 +1,3 @@
-<h3 align="center">
-
-![](https://komarev.com/ghpvc/?username=cosmicsourrollz&color=fdc4cb&style=plastic&label=NPCS)
-<h3>
 <p align="center">
 <img src=https://github.com/mysourheart/mysourheart/blob/b920d889504d63e79eb124ae2334c2d64a09e3b5/Daisy%20omg.jpg width="300">
 
