@@ -1,4 +1,4 @@
-<p align="center">
+<h3 align="center">
 <img src=https://github.com/mysourheart/mysourheart/blob/b920d889504d63e79eb124ae2334c2d64a09e3b5/Daisy%20omg.jpg width="200">
 
 <p align="center">
