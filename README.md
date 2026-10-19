@@ -4,4 +4,10 @@
 <p align="center">
 <a href="https://soursstuff.straw.page">strawpage</a> <a href="https://pronouns.cc/@soursourstuff">prns.cc</a>
 
-semi-wip
+<details <p align="center">
+<summary> </summary>
+<br>
+I like diablo and garbo a lot. hi
+<br>
+art creds: fishistixx
+</details>
