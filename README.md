@@ -5,7 +5,7 @@
 <details <p align="center">
 <summary> </summary>
 <br>
-I like diablo and garbo a lot. hi
+I follow peopl I think r cool. and ill usuallyy follow back,,
 <br>
 art creds: fishistixx
 </details>
