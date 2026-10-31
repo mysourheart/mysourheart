@@ -13,7 +13,8 @@ $\color{#4d1a77}{Next}$ $\color{#4d1a77}{thing}$ $\color{#4d1a77}{you}$ $\color{
 <br>
 <br>
 <p align="center"> <a href="https://soursstuff.straw.page">s𝗍rᥲᥕ⍴ᥲgᥱ</a> <img src=https://github.com/mysourheart/h/blob/708120c3b028238db95bae3c4c9185e4cb225a07/violet38.webp> <a href="https://pronouns.cc/@soursourstuff">⍴rᥒs.ᥴᥴ</a> </p>
-
+<br>
+<br>
 <p align="center">⠀
-<a href="website link here"> <img src="image link here" alt="hover text here" width="275"></a>
+<a href="https://github.com/BadFishlers"> <img src="https://github.com/mysourheart/h/blob/f02b8f2ea0187b02e6b0a7e7260ecff4e59729e0/Untitled2656_20261030224210.PNG" alt="hover text here" width="100"></a> <a href="https://github.com/mortisfication"> <img src="https://github.com/mysourheart/h/blob/f02b8f2ea0187b02e6b0a7e7260ecff4e59729e0/Untitled2656_20261030224213.PNG" alt="hover text here" width="100"></a> <a href="https://github.com/moralifying"> <img src="https://github.com/mysourheart/h/blob/f02b8f2ea0187b02e6b0a7e7260ecff4e59729e0/Untitled2656_20261030224219.PNG" alt="hover text here" width="100"></a>
 </p>
