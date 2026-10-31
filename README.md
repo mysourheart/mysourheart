@@ -21,5 +21,5 @@ click those thingies for my friends profiles if u didnt know
 </details>
 <br>
 <p align="center">⠀
-<a href="https://github.com/BadFishlers"> <img src="https://github.com/mysourheart/h/blob/f02b8f2ea0187b02e6b0a7e7260ecff4e59729e0/Untitled2656_20261030224210.PNG" alt="hover text here" width="100"></a> <a href="https://github.com/mortisfication"> <img src="https://github.com/mysourheart/h/blob/f02b8f2ea0187b02e6b0a7e7260ecff4e59729e0/Untitled2656_20261030224213.PNG" alt="hover text here" width="100"></a> <a href="https://github.com/moralifying"> <img src="https://github.com/mysourheart/h/blob/f02b8f2ea0187b02e6b0a7e7260ecff4e59729e0/Untitled2656_20261030224219.PNG" alt="hover text here" width="100"></a>
+<a href="https://github.com/BadFishlers"> <img src="https://github.com/mysourheart/h/blob/f02b8f2ea0187b02e6b0a7e7260ecff4e59729e0/Untitled2656_20261030224210.PNG" alt="hover text here" width="70"></a> <a href="https://github.com/mortisfication"> <img src="https://github.com/mysourheart/h/blob/f02b8f2ea0187b02e6b0a7e7260ecff4e59729e0/Untitled2656_20261030224213.PNG" alt="hover text here" width="70"></a> <a href="https://github.com/moralifying"> <img src="https://github.com/mysourheart/h/blob/f02b8f2ea0187b02e6b0a7e7260ecff4e59729e0/Untitled2656_20261030224219.PNG" alt="hover text here" width="70"></a>
 </p>
