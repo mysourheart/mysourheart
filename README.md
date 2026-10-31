@@ -13,3 +13,7 @@ $\color{#4d1a77}{Next}$ $\color{#4d1a77}{thing}$ $\color{#4d1a77}{you}$ $\color{
 <br>
 <br>
 <p align="center"> <a href="https://soursstuff.straw.page">s𝗍rᥲᥕ⍴ᥲgᥱ</a> <img src=https://github.com/mysourheart/h/blob/708120c3b028238db95bae3c4c9185e4cb225a07/violet38.webp> <a href="https://pronouns.cc/@soursourstuff">⍴rᥒs.ᥴᥴ</a> </p>
+
+<p align="center">⠀
+<a href="website link here"> <img src="image link here" alt="hover text here" width="275"></a>
+</p>
