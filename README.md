@@ -11,7 +11,6 @@ $\color{#4d1a77}{Next}$ $\color{#4d1a77}{thing}$ $\color{#4d1a77}{you}$ $\color{
 <br>
 <img src=https://github.com/mysourheart/h/blob/730c6840fd125a4d6a9c76719753eb666c432598/Untitled2653_20261030215523.PNG width="400">
 <br>
-<br>
 <p align="center"> <a href="https://soursstuff.straw.page">s𝗍rᥲᥕ⍴ᥲgᥱ</a> <img src=https://github.com/mysourheart/h/blob/708120c3b028238db95bae3c4c9185e4cb225a07/violet38.webp> <a href="https://pronouns.cc/@soursourstuff">⍴rᥒs.ᥴᥴ</a> </p>
 <br>
 <br>
