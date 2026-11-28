@@ -1,4 +1,4 @@
-<img align="left" src=https://github.com/mysourheart/wip/blob/471d410585781685af7bcc41551e8a38cd09be9f/Untitled2751_20261128004222.PNG alt="cuties" width="350"/>
+<img align="left" src=https://github.com/mysourheart/wip/blob/471d410585781685af7bcc41551e8a38cd09be9f/Untitled2751_20261128004222.PNG alt="cuties" width="320"/>
 <br>
 <a href="https://sourstuff.atabook.org/"> <img src="https://github.com/mysourheart/wip/blob/a3cf49ba98c11719c8eea0c2d61bbc9786ed410c/Untitled2751_20261128004155.PNG" alt="pronouns.cc" width="320"/>
 <br>
