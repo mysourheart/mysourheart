@@ -5,4 +5,5 @@
 <a href="https://pronouns.cc/@soursourstuff"> <img src="https://github.com/mysourheart/wip/blob/1648d7eb7cf9e7e44f696c47ef12f6ed8ddecb78/Untitled2751_20261128004152.PNG" alt="pronouns.cc" width="320"/>
 <br>
 <br>
-wip, sooooorry
+</a>
+hi wip sorry
